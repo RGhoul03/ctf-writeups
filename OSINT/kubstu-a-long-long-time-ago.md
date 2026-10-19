@@ -7,9 +7,9 @@
 
 Какое-то очень старое фото. На пересечении каких улиц оно сделано? Формат — `KubSTU{улица1,улица2}` (названия улиц на русском).
 
-![таска.png]([../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png))
+![таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png)
 
-**Файлы:** [таска.png]([../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png))
+**Файлы:** [таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png)
 
 ## 🏁 Решение
 
