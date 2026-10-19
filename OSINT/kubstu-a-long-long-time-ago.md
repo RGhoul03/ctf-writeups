@@ -7,9 +7,9 @@
 
 Какое-то очень старое фото. На пересечении каких улиц оно сделано? Формат — `KubSTU{улица1,улица2}` (названия улиц на русском).
 
-![таска.png](../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png)
+![таска.png]([../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png))
 
-**Файлы:** [таска.png](../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png)
+**Файлы:** [таска.png]([../../../assets/OSINT/A%20long,%20long%20time%20ago/таска.png](https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/blob/main/assets/OSINT/A%20long%2C%20long%20time%20ago/%D1%82%D0%B0%D1%81%D0%BA%D0%B0.png))
 
 ## 🏁 Решение
 
@@ -30,3 +30,5 @@
 Далее выполняем поиск "Краснодар 50-60 годы", натыкаемся на статью "Краснодар в фотографиях 1960–1970‑х годов"(https://vatnikstan.ru/archive/krasnodar-1960-1970h/) где есть полная версия этой фотографии с подписью "г. Краснодар уг. ул. Красной и Гоголя 1963г."
 
 Сдаем флаг KubSTU{Красная,Гоголя}
+
+Официальный репозиторий с райтапами: https://github.com/thxStuck/KubSTU-2026-Autumn-Edition-Full/tree/main
